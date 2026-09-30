@@ -1,0 +1,6 @@
+{
+  "name": "ImpactLens AI",
+  "description": "AI-powered Change Impact Analyzer - See what a small project change will actually affect before you approve it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
